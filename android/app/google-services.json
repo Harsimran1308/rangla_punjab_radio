@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "73810317943",
+    "firebase_url": "https://ranglapunjabradio-1e638.firebaseio.com",
+    "project_id": "ranglapunjabradio-1e638",
+    "storage_bucket": "ranglapunjabradio-1e638.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73810317943:android:a7eea86e1a0d22d344ec72",
+        "android_client_info": {
+          "package_name": "com.harsimran.ranglapunjabradio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73810317943-o4jfkmbn6sak3ranfts6jrnl6t0rulu2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.harsimran.ranglapunjabradio",
+            "certificate_hash": "db39671e2ad89bf1a771a6d71c7cc978739df42e"
+          }
+        },
+        {
+          "client_id": "73810317943-hmirm56vpvrrcesq14d4jcjurv9siugk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8MzMTRfD_jpYjTr-cpKtvHd1nU6cjDB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73810317943-hmirm56vpvrrcesq14d4jcjurv9siugk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
